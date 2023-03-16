@@ -1,6 +1,29 @@
-# TotallyNotAirbnb
-Ceci est un projet de BDD en MySQL innové par Kévin LEBEAU, Valentin GENDROT, Lucas CHEVALIER, Nicolas GUILLEMIN.
+# __Totally Not AirBnb__
 
-Il comporte la base de données de TotallyNotAirbnb, sa modélisation physique de données, le cahier des charges ainsi que le support.
+Ce projet est un projet d'école consistant à créer une base de données avec un cahier des charges pour satisfaire les besoins d'un client.
 
-</a>Ce projet est sous la licence <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
+## Groupe sur le projet
+
+----------------------------
+
+- Kevin Lebeau : <https://github.com/kevmorlo>
+- Lucas Chevalier  : <https://github.com/Lucas-Chevalier>
+- Nicolas Guillemin  : <https://github.com/Nicox44>
+- Valentin Gendrot : <https://github.com/nitnel>
+
+## Langages utilisés ?
+
+----------------------------
+
+- SQL
+- MarkDown
+
+    Modèle physique de données :
+
+  ![Modèle physique de donnée](model/model_tna.png)
+
+## License
+
+Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.<br />
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
